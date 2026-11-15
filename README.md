@@ -12,7 +12,7 @@ The assignments cover password validation, string manipulation, recursion and st
 
 A simple password-validation program that asks the user to enter a password and checks it against a predefined password.
 
-<img src="./screenshots/Problem%201b.png" width="180">
+<img src="./screenshots/Problem%201b.png" width="500">
 
 **Key concepts demonstrated:**
 - Character arrays and string handling
@@ -23,13 +23,13 @@ A simple password-validation program that asks the user to enter a password and 
 
 The program continues asking for the password until the correct password is entered.
 
-<img src="./screenshots/Problem%201a.png" width="180">
+<img src="./screenshots/Problem%201a.png" width="500">
 
 ### Problem 2 – Country Names and Vowel Counting
 
 A program that allows the user to enter ten country names from a provided list. It then analyses the entries to identify the longest and shortest country names and displays the number of vowels in each selected result.
 
-<img src="./screenshots/Problem%202a.png" width="180">
+<img src="./screenshots/Problem%202a.png" width="500">
 
 **Key concepts demonstrated:**
 - String manipulation and character arrays
@@ -41,13 +41,13 @@ A program that allows the user to enter ten country names from a provided list. 
 
 A recursive function called `Vowelcount()` checks each character in a country name and calculates the total number of vowels.
 
-<img src="./screenshots/Problem%202b.png" width="180">
+<img src="./screenshots/Problem%202b.png" width="500">
 
 ### Problem 3 – Statistical Calculations
 
 A program that accepts five numerical values from the user and calculates several statistical measurements.
 
-<img src="./screenshots/Problem%203a.png" width="180">
+<img src="./screenshots/Problem%203a.png" width="500">
 
 **Calculations implemented:**
 - Mean
@@ -65,7 +65,7 @@ A program that accepts five numerical values from the user and calculates severa
 
 The median is calculated by sorting the five values into ascending order. Standard deviation and excess kurtosis are calculated using the mean and variance.
 
-<img src="./screenshots/Problem%203b.png" width="180">
+<img src="./screenshots/Problem%203b.png" width="500">
 
 ## Skills Developed
 
