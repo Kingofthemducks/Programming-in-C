@@ -41,7 +41,7 @@ A program that allows the user to enter ten country names from a provided list. 
 
 A recursive function called `Vowelcount()` checks each character in a country name and calculates the total number of vowels.
 
-<img src="./screenshots/Problem%202b.png" width="500">
+<img src="./screenshots/Problem%202b.png" width="1000">
 
 ### Problem 3 – Statistical Calculations
 
