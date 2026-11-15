@@ -91,4 +91,4 @@ I also gained experience identifying errors, testing different inputs and improv
 
 ## Notes
 
-These projects are based on university coursework and represent my learning and development in C programming. They are educational exercises rather than production-ready software.
+These projects are based on university coursework and represent my learning and development in C programming. They are educational exercises.
