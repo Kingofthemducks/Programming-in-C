@@ -65,7 +65,7 @@ A program that accepts five numerical values from the user and calculates severa
 
 The median is calculated by sorting the five values into ascending order. Standard deviation and excess kurtosis are calculated using the mean and variance.
 
-<img src="./screenshots/Problem%203b.png" width="500">
+<img src="./screenshots/Problem3b.png" width="500">
 
 ## Skills Developed
 
